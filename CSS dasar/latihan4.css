@@ -1,0 +1,36 @@
+.lt:link{
+    color: orange;
+    text-decoration: none;
+}
+.lt:visited{
+    color: rgb(128, 0, 0);
+    text-decoration: none;
+}
+.lt:hover{
+    color: red;
+    text-decoration: underline;
+    font-size: 20px;
+}
+.lt:active{
+    color: rgb(30, 255, 0);
+    text-decoration: underline;
+}
+li:nth-child(odd) a{
+    font-weight: bold;
+    color: green;
+}
+li:nth-child(odd) a:hover{
+    color: rgb(0, 208, 255);
+}
+li:nth-child(even) a{
+    font-weight: bold;
+    color: rgb(255, 0, 0);
+}
+p:first-of-type{
+    font-size: 20px;
+    color: blue;
+}
+p:last-of-type{
+    font-size: 18px;
+    color: brown;
+}

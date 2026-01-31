@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(255, 255, 255);
+    background-image: url(Gambar/bg3.jpg);
+    background-repeat: repeat-x;
+    /*background-position: ; ini untuk mengubah poisis gambar*/
+
+    /*background:url (); ligtblue top center no-repeat; ini untuk mengatur lebih efisien*/
+}

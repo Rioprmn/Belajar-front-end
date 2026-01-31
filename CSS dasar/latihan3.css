@@ -1,0 +1,22 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+h1,h2{
+    color: rgb(0, 88, 112);
+}
+ul li a{
+    text-decoration: none;
+    color: red;
+}
+ol li a{
+    text-decoration: none;
+    color: rgb(234, 0, 255);
+}
+/*untuk id =#*/
+#p1{
+    color: purple;
+}
+/*untuk class =.*/
+.p2{
+    color: orange;
+}
