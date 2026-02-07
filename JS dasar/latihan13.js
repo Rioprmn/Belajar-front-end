@@ -28,7 +28,7 @@
 
 
 
-var arr = ["Rio", "Budi", "Ani", "Siti"];
+var arr = ["Rio", "Budi", "Ani", "Siti", "Lina"];
 // console.log(arr.join(' - '));
 
 // arr.push ("Agus", "Lina");
@@ -38,5 +38,12 @@ var arr = ["Rio", "Budi", "Ani", "Siti"];
 
 // arr.unshift("Agus");
 // arr.shift();
+
+
+arr.splice (1,2);
+
+
+var arr2= arr.slice (1,3); 
+
 console.log(arr.join(' - '));
 
